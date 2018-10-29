@@ -5,6 +5,7 @@ Overview
 This project was done as a first project at the Data Science Immersive Program at GA. Prior to this project we had gone over some basic statistics, learned some Python programming concepts, and also learned how to navigate files, packages, and libraries using the command line.
 
 In this project I look at SAT and ACT scores around the United States. The main focus will be on Standardized Testing, Statistical Summaries and Inference.
+
 Goals
 
 Describe your data with visualizations & statistical analysis in a Jupyter notebook.
