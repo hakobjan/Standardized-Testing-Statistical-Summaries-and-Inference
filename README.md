@@ -13,6 +13,7 @@ A 5 minute non-technical presentation targeting the ACt board.
 About the Jupyter Notebook
 Description of the data
 EDA (visuals in Matplotlib, distribution and relationsships between variables with Numpy)
+
 Datasets
 
 Two datasets in separet csv-files were used, containing:
